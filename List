@@ -1,0 +1,8 @@
+A sample example for creating list.
+
+#declaring a list by assigning a name#
+
+list=["a","b","c","d","e"]
+
+for i in list:
+    print i
